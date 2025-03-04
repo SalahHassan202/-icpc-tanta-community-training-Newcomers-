@@ -21,4 +21,4 @@ If you find this repository helpful, don't forget to **give it a Star ⭐** to s
 
 ---
 
-✍️ **Maintained By:** Salah Hassan – ICPC Tanta Community Member & Developer. 😊
+✍️ **Maintained By:** Salah Hassan – Competitive Programmer & Developer. 😊
